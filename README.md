@@ -40,6 +40,7 @@ Half wave rectifier without filter:
 <img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/2fa14376-b7f2-4458-ac2d-82036d0b7b49" />
 
 Half wave rectifier with filter:
+<img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/0dd5ec12-fbc5-4379-b394-060f3984a022" />
 
 
 
