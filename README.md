@@ -37,6 +37,7 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 Half wave rectifier without filter:
 <img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/d4cd8eaa-48cd-4b2b-9b61-2c9e2643b398" />
+<img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/2fa14376-b7f2-4458-ac2d-82036d0b7b49" />
 
 Half wave rectifier with filter:
 
