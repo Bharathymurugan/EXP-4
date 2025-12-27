@@ -50,6 +50,7 @@ Bridge rectifier without filter:
 
 
 Bridge rectifier with filter:
+<img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/c99dc423-c810-43ba-89e4-799ecdd20a90" />
 
 
 TABULAR COLUMN:
