@@ -52,6 +52,9 @@ TABULAR COLUMN:
 
 Full-wave Rectifier:
 <img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/8a18ef4a-87f0-4295-9fef-b7d158b391ef" />
+Waveform:
+<img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/c5b14cba-2d7c-4d0a-bced-5850d032c62e" />
+
 
 
 RESULT:
