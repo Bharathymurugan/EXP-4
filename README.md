@@ -40,12 +40,12 @@ Half wave rectifier with filter:
 
 Bridge rectifier with filter:
 
-TABULAR COLUMN
-Rectifier without filter
+TABULAR COLUMN AND WAVEFORM
+Half-wave rectifier:
+<img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/4b65c332-dda7-41fb-8c46-0fd1e1032c79" />
+
 TABULAR COLUMN
 Rectifier with filter
-
-WAVEFORM:
 
 
 RESULT:
