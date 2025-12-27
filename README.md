@@ -35,8 +35,12 @@ PROCEDURE:
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 CIRCUIT DIAGRAMS
+Half wave rectifier without filter:
+<img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/d4cd8eaa-48cd-4b2b-9b61-2c9e2643b398" />
 
 Half wave rectifier with filter:
+
+
 
 Bridge rectifier with filter:
 
